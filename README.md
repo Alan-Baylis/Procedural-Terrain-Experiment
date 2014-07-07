@@ -1,4 +1,4 @@
 Procedural-Terrain-Experiment
 =============================
 
-![test](http://josephjaniga.com/firstgame.gif)
+![My First Attempt](http://www.josephjaniga.com/firstgame.gif)
